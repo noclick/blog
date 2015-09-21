@@ -6,7 +6,7 @@ categories: jekyll
 author: Google Developers Group Managua
 image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
-sdjfgbwAJKYFGevkuyhj
+"o medo de um nome só faz aumentar o medo da própria coisa" - HP
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
